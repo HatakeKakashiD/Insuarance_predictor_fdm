@@ -28,7 +28,7 @@ def set_background_image(image_path):
     st.markdown(background_css, unsafe_allow_html=True)
 
 # Set the background image
-set_background_image("https://raw.githubusercontent.com/HatakeKakashiD/Insuarance_predictor_fdm/main/6803.jpeg")
+set_background_image("6803.jpeg")  # If the image is in the same directory
 
 # Create a header bar with custom styling
 header_css = """
