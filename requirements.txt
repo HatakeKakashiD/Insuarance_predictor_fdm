@@ -1,4 +1,4 @@
 streamlit==1.39.0
 joblib
 pandas
-# Add other dependencies your project needs
+xgboost==1.7.5  # Or whichever version you need
