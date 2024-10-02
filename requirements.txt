@@ -1,4 +1,5 @@
 streamlit==1.39.0
 joblib
 pandas
-xgboost==1.7.5  # Or whichever version you need
+xgboost==1.7.5  # Use your specific version
+scikit-learn  # This will install the latest version; you can specify a version if needed
